@@ -3,4 +3,4 @@
 https://qiita.com/atsuinui/items/788cbb6f0826881f4ba7<br>
 yolov5_detect_on_colabは動画・静止画に対してのocd検出モデル<br>
 yolov5_train_on_colabは独自データに対しての訓練方法<br>
-
+yolov5_ocd_detect.zipフォルダにOCD検出の実行ファイルと訓練済み重みデータが保存されている
